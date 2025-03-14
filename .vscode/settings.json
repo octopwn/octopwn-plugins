@@ -1,0 +1,13 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/webdev/.cursor/extensions/undefined_publisher.octopwn-extension-0.1.0/dist/stubs"
+    ],
+    "python.analysis.typeshedPaths": [
+        "/home/webdev/.cursor/extensions/undefined_publisher.octopwn-extension-0.1.0/dist/stubs"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.useLibraryCodeForTypes": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.autoSearchPaths": true
+}
